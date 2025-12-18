@@ -1,4 +1,4 @@
-Hi ![]👋My name is Krittaphat Wantanakij
+Hi 👋 I'm Krittaphat Wantanakij
 ==============================================================================================================================================
 
 CS Student @UTCC | Aspiring Full Stack Developer | React & Spring Boot
