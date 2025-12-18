@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Krittaphat Wantanakij
 ==============================================================================================================================================
 
-CS Student @UTCC | Full Stack Developer
+CS Student @UTCC | Aspiring Full Stack Developer | React & Spring Boot
 ---------------------------------------
 
 Building web apps with passion. Open to new challenges and opportunities.
